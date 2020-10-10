@@ -8,7 +8,7 @@ public class Plan {
     int limitTime;
     String nolimitTimeInfoText;
     int limitTraffic;
-    String nolimitTrafficInfoImageUrl;
+    String[] nolimitTrafficInfoImageLinks;
 
     String buySIMUrl;
     String configPlanUrl;
